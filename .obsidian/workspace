@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "fc7e4ad47ec915c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "69221905f35ff19d",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb20e2c72dba850a",
+    "type": "split",
+    "children": [
+      {
+        "id": "eef44540c9ef34b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df660988ad7c74ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "944edd2b7cf296f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "efb36282aac726b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3ad25f02f155fb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57ace9145f04c796",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "69221905f35ff19d",
+  "lastOpenFiles": [
+    "netlift.toml.md"
+  ]
+}
