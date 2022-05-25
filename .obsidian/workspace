@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Midgley.md",
+            "file": "Sources and Notes/Sources.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Midgley.md",
+                "file": "Sources and Notes/Sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "69221905f35ff19d",
   "lastOpenFiles": [
-    "Midgley.md",
-    "home.md",
-    "CFC's and their impacts.md",
-    "Lead in da gas.md",
-    "Notes/Midgley.md",
     "Sources and Notes/Sources.md",
+    "Sources and Notes/EESI Notes.md",
     "Sources and Notes/The Rise and Fall of Tetraethyllead..md",
     "Sources and Notes/MPRA Notes.md",
-    "Notes/Timeline of events.md",
-    "Sources and Notes/EESI Notes.md"
+    "home.md",
+    "Lead in da gas.md",
+    "Midgley.md",
+    "CFC's and their impacts.md",
+    "Notes/Midgley.md",
+    "Notes/Timeline of events.md"
   ]
 }
