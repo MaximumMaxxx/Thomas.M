@@ -19,3 +19,4 @@ https://pubs.acs.org/doi/10.1021/om030621b# [[The Rise and Fall of Tetraethyllea
 https://www.invent.org/inductees/thomas-midgley-jr [[invent Notes]]
 *Education, talk about his inventions*
 
+https://www.smithsonianmag.com/smart-news/one-man-two-deadly-substances-20th-century-180963269/
