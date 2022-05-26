@@ -15,3 +15,4 @@ https://web.archive.org/web/20091204120541/http://www.eesi.org/100209_cfc [[EESI
 
 https://pubs.acs.org/doi/10.1021/om030621b# [[The Rise and Fall of Tetraethyllead.]]
 
+https://www.smithsonianmag.com/smart-news/one-man-two-deadly-substances-20th-century-180963269/
