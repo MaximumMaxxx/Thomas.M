@@ -1,7 +1,7 @@
 Welcome to Max's presentation on Thomas Midjley 
 
 
-
+> Thomas Midgley was one of the most disasterous people  for the enironment. 
 
 
 
