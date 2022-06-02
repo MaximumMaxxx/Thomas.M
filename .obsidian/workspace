@@ -11,7 +11,7 @@
           "state": {
             "file": "home.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
