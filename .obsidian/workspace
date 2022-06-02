@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "69221905f35ff19d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "home.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "201f36594671b371",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lead in da gas.md",
+            "file": "home.md",
             "mode": "source",
             "source": false
           }
@@ -99,7 +87,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69221905f35ff19d",
+  "active": "201f36594671b371",
   "lastOpenFiles": [
     "home.md",
     "Lead in da gas.md",
