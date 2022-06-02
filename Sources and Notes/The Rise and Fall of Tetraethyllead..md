@@ -1,7 +1,7 @@
 ## https://pubs.acs.org/doi/10.1021/om030621b#
 
 
-[![Four-Stroke Cycle - an overview | ScienceDirect Topics](https://ars.els-cdn.com/content/image/3-s2.0-B012176480X000899-gr4.gif)492 × 236](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sciencedirect.com%2Ftopics%2Fengineering%2Ffour-stroke-cycle&psig=AOvVaw1Hl_gIlvYPoJ_MhElnIIIG&ust=1653068895697000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIij-dKP7PcCFQAAAAAdAAAAABAI)
+[![Four-Stroke Cycle - an overview | ScienceDirect Topics](https://ars.els-cdn.com/content/image/3-s2.0-B012176480X000899-gr4.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sciencedirect.com%2Ftopics%2Fengineering%2Ffour-stroke-cycle&psig=AOvVaw1Hl_gIlvYPoJ_MhElnIIIG&ust=1653068895697000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIij-dKP7PcCFQAAAAAdAAAAABAI)
 
 ## TEL
 
