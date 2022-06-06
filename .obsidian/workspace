@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "home.md",
+            "file": "Midgley.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "Midgley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "e98a58abe4ddd1fb",
   "lastOpenFiles": [
-    "home.md",
     "Midgley.md",
+    "home.md",
     "Images/Pasted image 20220606111656.png",
     "Pasted image 20220606111829.png",
     "push.md",
