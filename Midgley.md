@@ -9,3 +9,4 @@ Later during his time at GM Midgley was tasked with the creation of a new refrig
 As remarked by [New Scientist](https://en.wikipedia.org/wiki/New_Scientist) he is a "one-man environmental disaster".
 
 Go back home: [[home]]
+Check out the sources: [[Sources]]

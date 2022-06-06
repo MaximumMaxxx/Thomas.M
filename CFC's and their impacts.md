@@ -16,3 +16,6 @@ Freon had many uses, along with being a refrigerant it was used in.
 The ozone layer wich protects us from dangerous and cancer causing ultraviolet light rays was put in danger by Freon and other similar chemicals. As it turns out whever a Freon molocule got hit by light they can cause $O_3$ to break down into $O_2$ or ozone to oxygen. This caused the hole in the ozone layer which we are [still dealing with today](https://ozonewatch.gsfc.nasa.gov/). 
 
 In 1989 the Montreal Protocol went into affect limiting the production of Freon, CFC's and other chemicals that deplete the ozone layer. This put an end to Freon's production however we have found and largely replaced it with other safer gases like $CO_2$, Diflouromethane, Teraflouroethane, and Isobutane.
+
+Go back home: [[home]]
+Check out the sources: [[Sources]]
