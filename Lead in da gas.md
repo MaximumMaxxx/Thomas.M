@@ -10,7 +10,7 @@ This is the problem that thomas midgley was assigned to solve.
 
 #### How did he discover it?
 
-Midgley's first attempt to solve the problem showed that iodine cold stop the knocking. There was the issue that a. Iodine added about $1 to the gas price or $25.60 in todays money. Iodine also had the drawback of damaging your carburator, gasoline piping, and engine. Although it was impractical Iodine did show that preventing knocking was possible and gave Thomas motivation.
+Midgley's first attempt to solve the problem showed that iodine cold stop the knocking. There was the issue that a. Iodine added about \$1 to the gas price or $25.60 in todays money. Iodine also had the drawback of damaging your carburator, gasoline piping, and engine. Although it was impractical Iodine did show that preventing knocking was possible and gave Thomas motivation.
 
 His search was however prevented by WW1 where Thomas instead worked on sythetic aviation fuels. After returning from war DELCO where he was working before was sold to GM who gave him 2 weeks to find a new knock agent. Aniline was found however it too had downsides.
 

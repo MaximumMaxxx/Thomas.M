@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Midgley.md",
+            "file": "Lead in da gas.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Midgley.md",
+                "file": "Lead in da gas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "e98a58abe4ddd1fb",
   "lastOpenFiles": [
+    "Lead in da gas.md",
+    "CFC's and their impacts.md",
     "Midgley.md",
     "home.md",
     "Images/Pasted image 20220606111656.png",
@@ -96,8 +98,6 @@
     "push.md",
     "Sources and Notes/EESI Notes.md",
     "Sources and Notes/invent Notes.md",
-    "Sources and Notes/MPRA Notes.md",
-    "Sources and Notes/Smithsonian Notes.md",
-    "Sources and Notes/Sources.md"
+    "Sources and Notes/MPRA Notes.md"
   ]
 }
