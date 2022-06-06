@@ -1,7 +1,7 @@
 
 ![[Pasted image 20220606111656.png]]
 
-Source for image that won't show up on the website but renders in my notes software because plugins.
+Source for image that won't show up on the website but renders in my notes software because plugins.p
 ```timeline
 + May 18, 1889
 + Thomas Brorn

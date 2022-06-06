@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Timeline of events.md",
+            "file": "Sources and Notes/Timeline of events.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Timeline of events.md",
+                "file": "Sources and Notes/Timeline of events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,7 @@
   },
   "active": "e98a58abe4ddd1fb",
   "lastOpenFiles": [
-    "Notes/Timeline of events.md",
+    "Sources and Notes/Timeline of events.md",
     "CFC's and their impacts.md",
     "home.md",
     "Lead in da gas.md",
