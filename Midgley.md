@@ -7,3 +7,5 @@ Midgley started working at General Motors (GM) in 1916 where he was tasked with 
 Later during his time at GM Midgley was tasked with the creation of a new refrigerant. He settled on Freon *See [[CFC's and their impacts]]*. Freon caused a large hole in the ozone layer which is still healing today and is a potent greenhouse gas. 
 
 As remarked by [New Scientist](https://en.wikipedia.org/wiki/New_Scientist) he is a "one-man environmental disaster".
+
+Go back home: [[home]]

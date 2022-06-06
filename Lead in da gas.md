@@ -31,3 +31,6 @@ Lead is not a good chemical to be around and it's not a good chemical to have in
 According to the UN the worldwide ban of leaded gas resulted in 2 million fewer early deaths, higher overall intelligence and 58 million fewer crimes.
 
 ![[Pasted image 20220512125431.png]]
+
+
+Go back home: [[home]]
