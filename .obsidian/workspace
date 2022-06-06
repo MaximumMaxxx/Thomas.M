@@ -7,9 +7,11 @@
         "id": "201f36594671b371",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Images/Pasted image 20220606111656.png"
+            "file": "home.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20220606111656.png",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,10 +89,10 @@
   },
   "active": "201f36594671b371",
   "lastOpenFiles": [
+    "home.md",
     "Images/Pasted image 20220606111656.png",
     "Pasted image 20220606111829.png",
     "push.md",
-    "home.md",
     "Sources and Notes/EESI Notes.md",
     "Sources and Notes/invent Notes.md",
     "Sources and Notes/MPRA Notes.md",

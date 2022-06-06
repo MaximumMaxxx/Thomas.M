@@ -1,4 +1,4 @@
-- [ ] ## Thesis
+## Thesis
 
 <div  style="ml: .5rem; mr: .5rem; background-color: #1b1f22;  border-radius: 10px; padding: 5px; text-align: center; mb: .2rem">
 	<p style="font-size: 1.5rem">
