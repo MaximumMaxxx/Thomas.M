@@ -23,3 +23,9 @@ On Feb. 23 1926 TEL was patented for use to prevent knocking
 GM motors made deals with standard oil since GM makes engines and standard makes gas. They jointly founded the Ethyl Corportation and hired Dupont to operate the manufacturing. Within the first year of plant operations there was already lead posioning, hallucinations, insanity and even deaths caused by lead poisioning. Despite this the Ethyl Corporation denied any significant public health dangers even though lead increased over 625 times previous levels in the past century. 
 
 TEL eventually was banned by the Clean Air Act in 1971. We now use unleaded gas in our cars. 
+
+### Long term effects
+
+Lead is not a good chemical to be around and it's not a good chemical to have in your gas. Studies have shown that violent crime and lead have a strong corrolation. Lead also has other long term side effects like depression, memory issues, headaches, etc.
+
+![[Pasted image 20220512125431.png]]
