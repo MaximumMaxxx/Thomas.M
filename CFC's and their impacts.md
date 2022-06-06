@@ -11,5 +11,5 @@ Freon had many uses, along with being a refrigerant it was used in.
 - Solvents
 - Air-conditioning systems
 - Fire extinguishers
-- Inhalant drug (Yes people are stup)
+- Inhalant drug (Yes people are stupid)
 
