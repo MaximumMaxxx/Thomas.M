@@ -7,11 +7,9 @@
         "id": "201f36594671b371",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "home.md",
-            "mode": "source",
-            "source": false
+            "file": "Images/Pasted image 20220606111656.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "Images/Pasted image 20220606111656.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +87,15 @@
   },
   "active": "201f36594671b371",
   "lastOpenFiles": [
+    "Images/Pasted image 20220606111656.png",
+    "Pasted image 20220606111829.png",
+    "push.md",
     "home.md",
     "Sources and Notes/EESI Notes.md",
     "Sources and Notes/invent Notes.md",
     "Sources and Notes/MPRA Notes.md",
     "Sources and Notes/Smithsonian Notes.md",
     "Sources and Notes/Sources.md",
-    "Sources and Notes/The Rise and Fall of Tetraethyllead..md",
-    "Notes/Timeline of events.md",
-    "Notes/Midgley.md",
-    "CFC's and their impacts.md"
+    "Sources and Notes/The Rise and Fall of Tetraethyllead..md"
   ]
 }
