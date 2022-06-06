@@ -21,3 +21,5 @@ https://www.invent.org/inductees/thomas-midgley-jr [[invent Notes]]
 
 https://www.smithsonianmag.com/smart-news/one-man-two-deadly-substances-20th-century-180963269/ [[Smithsonian Notes]]
 *Talks about his confrences, links to sources with relevant quotes*
+
+Go back home: [[home]]

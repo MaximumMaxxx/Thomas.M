@@ -8,3 +8,6 @@
 - Born in Beaver Falls, Pennsylvania
 - Went to Cornell University
 - Began work in 1916
+
+
+Go back home: [[home]]

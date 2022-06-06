@@ -44,3 +44,7 @@
 - Air conditioning
 
 Midgley died from being tangled in a series of pullies he used to move around after being paralyzed by Polio
+
+[[Timeline of events]]
+
+Go back home: [[home]]
