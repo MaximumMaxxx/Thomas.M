@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CFC's and their impacts.md",
+            "file": "home.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CFC's and their impacts.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,12 +105,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "201f36594671b371",
   "lastOpenFiles": [
-    "CFC's and their impacts.md",
     "home.md",
+    "CFC's and their impacts.md",
     "Lead in da gas.md",
     "Sources and Notes/The Rise and Fall of Tetraethyllead..md",
     "Sources and Notes/Sources.md",
