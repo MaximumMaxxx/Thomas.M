@@ -5,7 +5,7 @@
 	Thomas Midgley invented CFC's and put lead in gasoline. While they were great inventions the environmental diasasters they caused did not outweigh their benefits.
 	</p>
 </div>
-<div style=height:50px></div>
+<div style=height:35px></div>
 Click any of the below like to learn a bit more about Thomas or his inventions
 [[Midgley]]
 [[CFC's and their impacts]]
