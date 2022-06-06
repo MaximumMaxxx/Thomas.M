@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "201f36594671b371",
+        "id": "e98a58abe4ddd1fb",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,9 +87,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "201f36594671b371",
+  "active": "e98a58abe4ddd1fb",
   "lastOpenFiles": [
     "home.md",
+    "Midgley.md",
     "Images/Pasted image 20220606111656.png",
     "Pasted image 20220606111829.png",
     "push.md",
@@ -97,7 +98,6 @@
     "Sources and Notes/invent Notes.md",
     "Sources and Notes/MPRA Notes.md",
     "Sources and Notes/Smithsonian Notes.md",
-    "Sources and Notes/Sources.md",
-    "Sources and Notes/The Rise and Fall of Tetraethyllead..md"
+    "Sources and Notes/Sources.md"
   ]
 }
