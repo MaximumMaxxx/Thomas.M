@@ -2,17 +2,17 @@
 
 To understand why we needed to put lead in gas you have to understand engine knocking. Here is a diagram of a normal combustion engine cycle.
 [![Four-Stroke Cycle - an overview | ScienceDirect Topics](https://ars.els-cdn.com/content/image/3-s2.0-B012176480X000899-gr4.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sciencedirect.com%2Ftopics%2Fengineering%2Ffour-stroke-cycle&psig=AOvVaw1Hl_gIlvYPoJ_MhElnIIIG&ust=1653068895697000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIij-dKP7PcCFQAAAAAdAAAAABAI)
-The cylinder does down and lets air and fuel in in, goes up and compresses the air while also activating the spark plug, this then combusts pushing the cylinder downwards and the engine exhaust the exhaust. 
+The cylinder does down and lets air and fuel in in, goes up and compresses the air while also activating the spark plug, this then combusts pushing the cylinder downwards and the engine exhausts the exhaust. 
 
 Engine knocking is when during the compression stage the fuel auto ignites under the preasure before the spark plug activates. This causes numerous problems like an irritating noise, overheating, loss of power, damage to the engine, and wasted gas.
 
-This is the problem that thomas midgley was assigned to solve. 
+This is the problem that Thomas Midgley was assigned to solve. 
 
 #### How did he discover it?
 
-Midgley's first attempt to solve the problem showed that iodine cold stop the knocking. There was the issue that a. Iodine added about \$1 to the gas price or $25.60 in todays money. Iodine also had the drawback of damaging your carburator, gasoline piping, and engine. Although it was impractical Iodine did show that preventing knocking was possible and gave Thomas motivation.
+Midgley's first attempt to solve the problem showed that iodine cold stop the knocking. There was the issue that a. Iodine added about \$1 to the gas price or \$25.60 in todays money. Iodine also had the drawback of damaging your carburator, gasoline piping, and engine. Although it was impractical Iodine did show that preventing knocking was possible and gave Thomas motivation.
 
-His search was however prevented by WW1 where Thomas instead worked on sythetic aviation fuels. After returning from war DELCO where he was working before was sold to GM who gave him 2 weeks to find a new knock agent. Aniline was found however it too had downsides.
+His search was interupted by WW1 where Thomas instead worked on sythetic aviation fuels. After returning from war DELCO where he was working before was sold to GM who gave him 2 weeks to find a new knock agent. Aniline was found however it too had downsides.
 
 Eventually a more scientific approach was taken which eventually lead to Tetraethylllead. TEL worked at a concentration as low as $\frac{1}{40}$th of 1%. With this new practical and effective anti knock solution the modern high power internal combustion engine could now become a reality.
 

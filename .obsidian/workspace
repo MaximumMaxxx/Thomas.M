@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lead in da gas.md",
+            "file": "Notes/Timeline of events.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lead in da gas.md",
+                "file": "Notes/Timeline of events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "e98a58abe4ddd1fb",
   "lastOpenFiles": [
-    "Lead in da gas.md",
+    "Notes/Timeline of events.md",
     "CFC's and their impacts.md",
-    "Midgley.md",
     "home.md",
+    "Lead in da gas.md",
+    "Midgley.md",
     "Images/Pasted image 20220606111656.png",
     "Pasted image 20220606111829.png",
     "push.md",
     "Sources and Notes/EESI Notes.md",
-    "Sources and Notes/invent Notes.md",
-    "Sources and Notes/MPRA Notes.md"
+    "Sources and Notes/invent Notes.md"
   ]
 }
